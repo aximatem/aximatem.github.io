@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aximatem.github.io/aximatem.aximatem
+Sitemap: https://aximatem.github.io/app/aximatem.aximatem
+Sitemap: https://aximatem.github.io/assets/aximatem.aximatem
+Sitemap: https://aximatem.github.io/css/aximatem.aximatem
+Sitemap: https://aximatem.github.io/includes/aximatem.aximatem
+Sitemap: https://aximatem.github.io/item/aximatem.aximatem
+Sitemap: https://aximatem.github.io/src/aximatem.aximatem
